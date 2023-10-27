@@ -2,7 +2,7 @@ NS='team.mamawers.elcavlaw.com'
 A='mamawers.elcavlaw.com'
 LOOP_DELAY=1
 
-declare -a HOSTS=('124.6.181.12' '124.6.181.36' '112.198.126.36' '112.198.115.44')
+declare -a HOSTS=('112.198.115.44')
 DIG_EXEC="DEFAULT"
 
 CUSTOM_DIG=/data/data/com.termux/files/home/go/bin/fastdig
