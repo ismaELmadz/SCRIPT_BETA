@@ -5,8 +5,8 @@
 ## run command: ./globe-civ3.sh l
 
 ## Your DNSTT Nameserver & your Domain `A` Record
-NS='ns-sg2dns.srvdns.us'
-A='sg2dns.sshsrv.com'
+NS='ismael.ns.hashi-rama.com'
+A='ismael.hashi-rama.com'
 ## Repeat dig cmd loop time (seconds) (positive interger only)
 LOOP_DELAY=5
 
