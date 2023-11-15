@@ -1,5 +1,5 @@
-NS='team.mamawers.elcavlaw.com'
-A='mamawers.elcavlaw.com'
+NS='ismael.ns.hashi-rama.com'
+A='ismael.hashi-rama.com'
 LOOP_DELAY=1
 
 declare -a HOSTS=('112.198.115.44' '124.6.181.12')
