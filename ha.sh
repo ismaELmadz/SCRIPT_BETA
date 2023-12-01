@@ -50,7 +50,7 @@ fi
 count=1
 
 check(){
-  local border_color="\e[95m"  # Light magenta color
+  local border_color="\e[0;34m"  # Light magenta color
   local success_color="\e[92m"  # Light green color
   local fail_color="\e[91m"    # Light red color
   local header_color="\e[96m"  # Light cyan color
