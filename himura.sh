@@ -11,7 +11,7 @@ A='himura.freenet-tech.cloud'
 LOOP_DELAY=5
 
 ## Add your DNS here
-declare -a HOSTS=('124.6.181.12' '112.198.115.44' '112.198.115.36' '124.6.181.25' '124.6.181.36' '124.6.181.4' '124.6.181.20' '124.6.181.4')
+declare -a HOSTS=('124.6.181.31')
 
 ## Linux' dig command executable filepath
 ## Select value: "CUSTOM|C" or "DEFAULT|D"
